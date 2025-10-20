@@ -65,4 +65,4 @@ Git, Visual Studio Code, Cursor, Docker, Azure, Eclipse, Firebase, OpenAI API, A
 
 ## 📬 Contact
 - Email: jakemholcombe@gmail.com
-- Linkedin: [https://www.linkedin.com/in/jakeholcombe]([https://www.linkedin.com/in/samuel-montalbano/](https://www.linkedin.com/in/jakeholcombe))
+- Linkedin: [https://www.linkedin.com/in/jakeholcombe]([https://www.linkedin.com/in/jakeholcombe])
