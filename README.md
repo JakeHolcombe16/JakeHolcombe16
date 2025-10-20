@@ -48,7 +48,7 @@ Git, Visual Studio Code, Cursor, Docker, Azure, Eclipse, Firebase, OpenAI API, A
 
 ---
 
-**Software Engineer Intern — **Open Source Storage**  
+**Software Engineer Intern — Open Source Storage**  
 *Feb 2025 – May 2025*  
 - Developed a Node.js graphical interface using HTML, CSS, and JavaScript to display graphical data and digital archive system insights, enabling clearer visualization for users.
 - Created interactive data visualizations and reports with Chart.js, enhancing user ability to analyze and interpret system analytics.
