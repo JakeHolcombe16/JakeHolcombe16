@@ -17,6 +17,9 @@ Bachelor of Science in Computer Science, Minor in Mathematics & Business Adminis
 
 ## 💻 Personal Projects
 
+- A cloud-native video transcoding pipeline built with Go microservices, Redis job queues, and S3-compatible storage, demonstrating distributed systems architecture with Docker orchestration.
+    - [Cloud Distributed Transcode Pipeline](https://github.com/JakeHolcombe16/Cloud-Distributed-Transcode-Pipeline)
+
 - A project deticated to finding the lowest prices on perfume by reading multiple trustworthy fragrance discounters and showing you the availabilty and price.
     - [Fragrance Finder](https://github.com/JakeHolcombe16/fragrance-finder)
 
