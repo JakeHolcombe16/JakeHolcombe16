@@ -32,11 +32,12 @@ Bachelor of Science in Computer Science, Minor in Mathematics & Business Adminis
 
 ## 🛠 TECHNICAL SKILLS
 
-**Programming Languages:**  
-Python, JavaScript, Java, C/C++, React, Node.js, Three.js, MySQL, HTML/CSS  
 
-**Tools & Technologies:**  
-Git, Visual Studio Code, Cursor, Docker, Azure, Eclipse, Firebase, OpenAI API, APIs, MATLAB, GPT Models, GitHub Copilot
+**Languages:** Java, Python, Go (Golang), C/C++, JavaScript, TypeScript, SQL
+**Frameworks:** React, Node.js, REST APIs, GraphQL
+**Databases/Storage:** PostgreSQL, MySQL, Redis, MinIO (S3-compatible)
+**DevOps/Cloud:** Git, Docker, Kubernetes, Prometheus, Grafana, AWS, Azure
+**Libraries:** FFmpeg, Three.js, pandas, NumPy, Matplotlib
 
 ---
 
